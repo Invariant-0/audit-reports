@@ -2,6 +2,7 @@
 Welcome to our repository where we share the public outputs of our work. This collection showcases a series of smart contract audit reports performed by the Invariant0 team.
 
 ## List of Audit Reports
+* Pondora v2: [view solo report](./reports/pondora-v2-v1.0.pdf)
 
 You probably know our team as former Vacuumlabs Auditing. Don't forget to check out our [previous work](https://github.com/Invariant-0/vacuumlabs-audits).
 
